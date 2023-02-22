@@ -1,2 +1,1 @@
-# emilsham.github.io.
 # Проверка
